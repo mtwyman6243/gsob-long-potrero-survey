@@ -1,0 +1,4 @@
+openpyxl
+# optional, for the GeoPandas/leafmap map builder:
+geopandas
+leafmap
